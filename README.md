@@ -17,3 +17,7 @@ https://iatf-sarl.github.io
 You can see a sample page at
 
 https://iatf-sarl.github.io/index.html
+
+**----> IMPORTANT ALERT!! <----**
+
+This is a public repository useful just for testing purposes. Please never put relevant and/or proprietary code on this repo!!
